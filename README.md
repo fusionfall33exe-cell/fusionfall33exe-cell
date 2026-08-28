@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Kenneth
 
-<!--
-**fusionfall33exe-cell/fusionfall33exe-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1st-year Computer Science student at **HTBLuVA Salzburg**, focused on networking, systems and AI tooling.
 
-Here are some ideas to get you started:
+## Interested in
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Networking & server infrastructure
+- Local AI / LLM tooling
+- Systems programming (C, Bash)
+
+## Stack
+
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+📍 Salzburg, Austria
