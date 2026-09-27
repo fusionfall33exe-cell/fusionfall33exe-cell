@@ -1,12 +1,22 @@
 # Hi, I'm Kenneth
 
-1st-year Computer Science student at **HTBLuVA Salzburg**, focused on networking, systems and AI tooling.
+Student at **HTBLuVA Salzburg** (IT department), focused on networking, systems and AI tooling.
 
-## Interested in
+## What I do
 
-- Networking & server infrastructure
-- Local AI / LLM tooling
-- Systems programming (C, Bash)
+- Running a home server on Debian
+- Building terminal tools in C
+- Local LLM inference
+
+## Projects
+
+### [planets-screensaver](https://github.com/fusionfall33exe-cell/planets-screensaver)
+
+A ray-traced solar system screensaver for the terminal, written in pure C, built as the idle screen for my home server.
+
+![planets-screensaver](https://github.com/fusionfall33exe-cell/planets-screensaver/raw/main/docs/screenshots/solar-system.gif)
+
+🚧 **Subnet calculator** (C): computes netmask, wildcard, network and broadcast address, host range and host count from CIDR notation. Written entirely by hand, no AI. Coming soon.
 
 ## Stack
 
@@ -14,7 +24,3 @@
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-📍 Salzburg, Austria
